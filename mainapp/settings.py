@@ -32,6 +32,7 @@ LOGIN_REDIRECT_URL = '/admin'
 # Application definition
 
 INSTALLED_APPS = [
+    'admin_volt',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
